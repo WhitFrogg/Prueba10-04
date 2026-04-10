@@ -1,0 +1,14 @@
+/*hero: esto hace que el fondo del inicio se vea en color verde*/
+.hero {
+    background: #2ecc71;
+    color: white;
+    padding: 40px;
+}
+/*card-simple: hace las tarjetas esten con bordes redondeados*/
+.card-simple {
+    border-radius: 10px;
+}
+/*seccion: agrega espacio dentro de cada sección para que no este todo junto*/
+.seccion {
+    padding: 20px;
+}
